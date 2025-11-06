@@ -1,4 +1,4 @@
-package net.gouravjangra.journalApp.repositoty;
+package net.gouravjangra.journalApp.repository;
 
 import net.gouravjangra.journalApp.entity.JournalEntry;
 import org.bson.types.ObjectId;
